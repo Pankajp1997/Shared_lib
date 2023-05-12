@@ -1,0 +1,3 @@
+def contBuild (name) {
+     git "https://github.com/Pankajp1997/${name}.git"   
+}
